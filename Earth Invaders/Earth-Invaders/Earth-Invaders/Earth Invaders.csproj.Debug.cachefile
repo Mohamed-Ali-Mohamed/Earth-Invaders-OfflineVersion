@@ -1,0 +1,131 @@
+Content\Textures\Sprites\PlatformTiles.xnb
+Content\Textures\Sprites\Gem.xnb
+Content\Textures\Sprites\MonsterA\Die.xnb
+Content\Textures\Sprites\MonsterA\Idle.xnb
+Content\Textures\Sprites\MonsterA\Run.xnb
+Content\Textures\Sprites\MonsterB\Die.xnb
+Content\Textures\Sprites\MonsterB\Idle.xnb
+Content\Textures\Sprites\MonsterB\Run.xnb
+Content\Textures\Sprites\MonsterC\Die.xnb
+Content\Textures\Sprites\MonsterC\Idle.xnb
+Content\Textures\Sprites\MonsterC\Run.xnb
+Content\Textures\Sprites\Player\Die.xnb
+Content\Textures\Sprites\Player\Idle.xnb
+Content\Textures\Sprites\Player\Jump.xnb
+Content\Textures\Sprites\Player\Run.xnb
+Content\Textures\Sprites\logo.xnb
+Content\Textures\Sprites\present.xnb
+Content\Textures\Sprites\Fire.xnb
+Content\Textures\worlds background\20.xnb
+Content\Textures\worlds background\21.xnb
+Content\Textures\worlds background\22.xnb
+Content\Textures\worlds background\23.xnb
+Content\Textures\worlds background\24.xnb
+Content\Textures\worlds background\30.xnb
+Content\Textures\worlds background\31.xnb
+Content\Textures\worlds background\32.xnb
+Content\Textures\worlds background\33.xnb
+Content\Textures\worlds background\34.xnb
+Content\Textures\worlds background\40.xnb
+Content\Textures\worlds background\41.xnb
+Content\Textures\worlds background\42.xnb
+Content\Textures\worlds background\43.xnb
+Content\Textures\worlds background\44.xnb
+Content\Textures\worlds background\50.xnb
+Content\Textures\worlds background\51.xnb
+Content\Textures\worlds background\52.xnb
+Content\Textures\worlds background\53.xnb
+Content\Textures\worlds background\54.xnb
+Content\Textures\worlds background\60.xnb
+Content\Textures\worlds background\61.xnb
+Content\Textures\worlds background\62.xnb
+Content\Textures\worlds background\63.xnb
+Content\Textures\worlds background\64.xnb
+Content\Textures\worlds background\00.xnb
+Content\Textures\worlds background\01.xnb
+Content\Textures\worlds background\02.xnb
+Content\Textures\worlds background\03.xnb
+Content\Textures\worlds background\04.xnb
+Content\Textures\Sprites\Player\Run&Up.xnb
+Content\Textures\Sprites\Player\Up.xnb
+Content\Textures\Sprites\Player\Fire11.xnb
+Content\Textures\Sprites\Player\Down.xnb
+Content\Textures\Screens background\0.xnb
+Content\Textures\Screens background\1.xnb
+Content\Textures\worlds background\10.xnb
+Content\Textures\worlds background\11.xnb
+Content\Textures\worlds background\12.xnb
+Content\Textures\worlds background\13.xnb
+Content\Textures\worlds background\14.xnb
+Content\Textures\Sprites\HealthBar5.xnb
+Content\Textures\Sprites\HealthBar6.xnb
+Content\Textures\Screens background\2.xnb
+Content\Textures\Sprites\Health.xnb
+Content\Textures\Sprites\MonsterD\Run.xnb
+Content\Textures\Sprites\MonsterD\Idle.xnb
+Content\Textures\Sprites\MonsterD\Die.xnb
+Content\Textures\worlds background\70.xnb
+Content\Textures\worlds background\71.xnb
+Content\Textures\worlds background\72.xnb
+Content\Textures\worlds background\73.xnb
+Content\Textures\worlds background\74.xnb
+Content\Textures\worlds background\80.xnb
+Content\Textures\worlds background\81.xnb
+Content\Textures\worlds background\82.xnb
+Content\Textures\worlds background\83.xnb
+Content\Textures\worlds background\84.xnb
+Content\Textures\worlds background\94.xnb
+Content\Textures\worlds background\93.xnb
+Content\Textures\worlds background\92.xnb
+Content\Textures\worlds background\91.xnb
+Content\Textures\worlds background\90.xnb
+Content\Textures\Sprites\Player\Idle&Up.xnb
+Content\Textures\Sprites\MonsterE\Die.xnb
+Content\Textures\Sprites\MonsterE\Idle.xnb
+Content\Textures\Sprites\MonsterE\Run.xnb
+Content\Textures\Sprites\MonsterF\Die.xnb
+Content\Textures\Sprites\MonsterF\Idle.xnb
+Content\Textures\Sprites\MonsterF\Run.xnb
+Content\Textures\Sprites\Fire1.xnb
+Content\Textures\Sprites\Fire2.xnb
+Content\Textures\worlds background\100.xnb
+Content\Textures\worlds background\102.xnb
+Content\Textures\worlds background\103.xnb
+Content\Textures\worlds background\104.xnb
+Content\Textures\worlds background\101.xnb
+Content\Textures\Sprites\Fire0.xnb
+Content\Textures\Sprites\Key_E.xnb
+Content\Fonts\Buxton Sketch24.xnb
+Content\gamefont.xnb
+Content\menu.xnb
+Content\Fonts\Buxton Sketch20.xnb
+Content\Sound\intro.xnb
+Content\Sound\Levels.xnb
+Content\Sound\Level_1.xnb
+Content\Sound\Level_2.xnb
+Content\Sound\Level_3.xnb
+Content\Sound\Level_4.xnb
+Content\Sound\Level_5.xnb
+Content\Sound\Level_6.xnb
+Content\Sound\Level_7.xnb
+Content\Sound\Level_8.xnb
+Content\Sound\Level_9.xnb
+Content\Sound\Level_10.xnb
+Content\Sound\Die.xnb
+Content\Sound\Fire.xnb
+Content\Sound\First.xnb
+Content\Sound\GameStone.xnb
+Content\Sound\Health.xnb
+Content\Sound\jump.xnb
+Content\Sound\intro.wma
+Content\Sound\Levels.wma
+Content\Sound\Level_1.wma
+Content\Sound\Level_2.wma
+Content\Sound\Level_3.wma
+Content\Sound\Level_4.wma
+Content\Sound\Level_5.wma
+Content\Sound\Level_6.wma
+Content\Sound\Level_7.wma
+Content\Sound\Level_8.wma
+Content\Sound\Level_9.wma
+Content\Sound\Level_10.wma

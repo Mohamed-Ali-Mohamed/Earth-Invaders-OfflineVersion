@@ -1,0 +1,31 @@
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Fonts\Buxton Sketch8.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Gem.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\PlatformTiles.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\Gem.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterA\Die.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterA\Idle.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterA\Run.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterB\Die.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterB\Idle.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterB\Run.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterC\Die.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterC\Idle.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterC\Run.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterD\Die.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterD\Idle.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\MonsterD\Run.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\Player\Die.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\Player\Idle.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\Player\Jump.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\Sprites\Player\Run.xnb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Content\Textures\PlatformTiles.png
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Level Editor.exe
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Level Editor.pdb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Tile Engine.dll
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\bin\x86\Release\Tile Engine.pdb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\obj\x86\Release\Level_Editor.MapEditor.resources
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\obj\x86\Release\Level Editor.csproj.GenerateResource.Cache
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\obj\x86\Release\Level Editor.exe
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\obj\x86\Release\Level Editor.pdb
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level Editor\obj\x86\Release\Level Editor.csprojResolveAssemblyReference.cache

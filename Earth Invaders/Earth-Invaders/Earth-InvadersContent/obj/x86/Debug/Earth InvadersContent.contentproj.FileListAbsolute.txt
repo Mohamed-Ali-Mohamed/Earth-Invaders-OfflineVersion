@@ -1,0 +1,15 @@
+C:\Users\Mohamed\Desktop\Code\Code\Gemstone Hunter\Gemstone Hunter\Gemstone HunterContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Code\Code\Earth Invaders\Gemstone Hunter\Gemstone HunterContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Code\Code\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Code\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+D:\FCIS\Second year\Second Term\OOP\Project\Earth Invaders 27-4\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 5-5\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 6-5\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\kamal\Desktop\Earth Invaders 6-5\Earth Invaders 6-5\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 8-5\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 9-5\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders Full\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Earth Invaders Full\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\Earth InvadersContent.contentprojResolveAssemblyReference.cache

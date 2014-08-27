@@ -1,0 +1,1129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Textures\Sprites\PlatformTiles.png</Source>
+      <Name>Textures\Sprites\PlatformTiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\PlatformTiles.xnb</Output>
+      <Time>2013-05-27T21:46:40.4521662+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Gem.png</Source>
+      <Name>Textures\Sprites\Gem</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Gem.xnb</Output>
+      <Time>2013-05-13T15:50:09.9547246+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterA\Die.png</Source>
+      <Name>Textures\Sprites\MonsterA\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Die.xnb</Output>
+      <Time>2013-04-25T12:13:08.7374375+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterA\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterA\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Idle.xnb</Output>
+      <Time>2013-04-19T10:58:56.866197+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterA\Run.png</Source>
+      <Name>Textures\Sprites\MonsterA\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterA\Run.xnb</Output>
+      <Time>2013-05-05T14:02:20.3181406+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterB\Die.png</Source>
+      <Name>Textures\Sprites\MonsterB\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Die.xnb</Output>
+      <Time>2013-04-19T11:28:43.9569485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterB\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterB\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Idle.xnb</Output>
+      <Time>2013-04-19T11:30:09.8809938+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterB\Run.png</Source>
+      <Name>Textures\Sprites\MonsterB\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterB\Run.xnb</Output>
+      <Time>2013-04-29T20:11:59.2024067+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterC\Die.png</Source>
+      <Name>Textures\Sprites\MonsterC\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Die.xnb</Output>
+      <Time>2013-04-19T13:23:28.5719985+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterC\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterC\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Idle.xnb</Output>
+      <Time>2013-04-19T13:04:51.2720278+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterC\Run.png</Source>
+      <Name>Textures\Sprites\MonsterC\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterC\Run.xnb</Output>
+      <Time>2013-04-19T13:27:43.0775684+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Die.png</Source>
+      <Name>Textures\Sprites\Player\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Die.xnb</Output>
+      <Time>2013-05-23T23:24:39.2113506+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Idle.png</Source>
+      <Name>Textures\Sprites\Player\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Idle.xnb</Output>
+      <Time>2013-05-23T23:16:10.2762412+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Jump.png</Source>
+      <Name>Textures\Sprites\Player\Jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Jump.xnb</Output>
+      <Time>2013-05-23T23:29:35.4472944+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Run.png</Source>
+      <Name>Textures\Sprites\Player\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Run.xnb</Output>
+      <Time>2013-05-23T23:09:37.5347777+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\logo.PNG</Source>
+      <Name>Textures\Sprites\logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\logo.xnb</Output>
+      <Time>2013-05-07T16:06:43.4843746+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\present.PNG</Source>
+      <Name>Textures\Sprites\present</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\present.xnb</Output>
+      <Time>2013-05-07T16:06:43.4993754+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Fire.png</Source>
+      <Name>Textures\Sprites\Fire</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Fire.xnb</Output>
+      <Time>2013-04-23T23:25:16.7319892+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\20.png</Source>
+      <Name>Textures\worlds background\20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\20.xnb</Output>
+      <Time>2013-05-22T12:54:39.7304214+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\21.png</Source>
+      <Name>Textures\worlds background\21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\21.xnb</Output>
+      <Time>2013-05-22T12:55:39.374898+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\22.png</Source>
+      <Name>Textures\worlds background\22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\22.xnb</Output>
+      <Time>2013-05-22T12:56:53.3499748+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\23.png</Source>
+      <Name>Textures\worlds background\23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\23.xnb</Output>
+      <Time>2013-05-22T12:58:46.6462278+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\24.png</Source>
+      <Name>Textures\worlds background\24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\24.xnb</Output>
+      <Time>2013-05-22T12:59:44.9724411+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\30.png</Source>
+      <Name>Textures\worlds background\30</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\30.xnb</Output>
+      <Time>2013-05-15T23:46:32.0389919+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\31.png</Source>
+      <Name>Textures\worlds background\31</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\31.xnb</Output>
+      <Time>2013-05-15T23:47:11.8508475+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\32.png</Source>
+      <Name>Textures\worlds background\32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\32.xnb</Output>
+      <Time>2013-05-15T23:49:24.1677959+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\33.png</Source>
+      <Name>Textures\worlds background\33</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\33.xnb</Output>
+      <Time>2013-05-15T23:50:27.4070161+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\34.png</Source>
+      <Name>Textures\worlds background\34</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\34.xnb</Output>
+      <Time>2013-05-15T23:51:19.3973941+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\40.png</Source>
+      <Name>Textures\worlds background\40</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\40.xnb</Output>
+      <Time>2013-05-07T16:06:46.1215254+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\41.png</Source>
+      <Name>Textures\worlds background\41</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\41.xnb</Output>
+      <Time>2013-05-07T16:06:46.2815346+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\42.png</Source>
+      <Name>Textures\worlds background\42</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\42.xnb</Output>
+      <Time>2013-05-07T16:06:46.4275429+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\43.png</Source>
+      <Name>Textures\worlds background\43</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\43.xnb</Output>
+      <Time>2013-05-23T22:39:27.7422635+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\44.png</Source>
+      <Name>Textures\worlds background\44</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\44.xnb</Output>
+      <Time>2013-05-23T22:39:48.591456+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\50.png</Source>
+      <Name>Textures\worlds background\50</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\50.xnb</Output>
+      <Time>2013-05-16T20:34:44.8502974+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\51.png</Source>
+      <Name>Textures\worlds background\51</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\51.xnb</Output>
+      <Time>2013-05-16T20:35:22.8624553+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\52.png</Source>
+      <Name>Textures\worlds background\52</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\52.xnb</Output>
+      <Time>2013-05-16T20:36:32.1446595+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\53.png</Source>
+      <Name>Textures\worlds background\53</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\53.xnb</Output>
+      <Time>2013-05-16T20:37:28.805963+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\54.png</Source>
+      <Name>Textures\worlds background\54</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\54.xnb</Output>
+      <Time>2013-05-16T20:38:49.9852572+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\60.png</Source>
+      <Name>Textures\worlds background\60</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\60.xnb</Output>
+      <Time>2013-05-07T16:06:47.4115992+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\61.png</Source>
+      <Name>Textures\worlds background\61</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\61.xnb</Output>
+      <Time>2013-05-07T16:06:47.5116049+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\62.png</Source>
+      <Name>Textures\worlds background\62</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\62.xnb</Output>
+      <Time>2013-05-07T16:06:47.6416123+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\63.png</Source>
+      <Name>Textures\worlds background\63</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\63.xnb</Output>
+      <Time>2013-05-07T16:06:47.7356177+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\64.png</Source>
+      <Name>Textures\worlds background\64</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\64.xnb</Output>
+      <Time>2013-05-23T22:08:37.1074132+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\00.png</Source>
+      <Name>Textures\worlds background\00</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\00.xnb</Output>
+      <Time>2013-05-15T22:51:16.9012492+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\01.png</Source>
+      <Name>Textures\worlds background\01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\01.xnb</Output>
+      <Time>2013-05-15T23:43:32.7576099+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\02.png</Source>
+      <Name>Textures\worlds background\02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\02.xnb</Output>
+      <Time>2013-05-24T12:47:28.8157906+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\03.png</Source>
+      <Name>Textures\worlds background\03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\03.xnb</Output>
+      <Time>2013-05-24T12:47:05.7304702+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\04.png</Source>
+      <Name>Textures\worlds background\04</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\04.xnb</Output>
+      <Time>2013-05-16T16:31:27.628043+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Run&amp;Up.png</Source>
+      <Name>Textures\Sprites\Player\Run&amp;Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Run&amp;Up.xnb</Output>
+      <Time>2013-05-23T23:31:52.0531078+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Up.png</Source>
+      <Name>Textures\Sprites\Player\Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Up.xnb</Output>
+      <Time>2013-05-23T23:32:24.4289596+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Fire11.png</Source>
+      <Name>Textures\Sprites\Player\Fire11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Fire11.xnb</Output>
+      <Time>2013-05-07T16:06:45.1314688+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Down.png</Source>
+      <Name>Textures\Sprites\Player\Down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Down.xnb</Output>
+      <Time>2013-05-23T23:25:50.8564485+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens background\0.png</Source>
+      <Name>Textures\Screens background\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Screens background\0.xnb</Output>
+      <Time>2013-05-11T06:40:58.7458272+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens background\1.png</Source>
+      <Name>Textures\Screens background\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Screens background\1.xnb</Output>
+      <Time>2013-05-18T10:40:45.6927087+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\10.png</Source>
+      <Name>Textures\worlds background\10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\10.xnb</Output>
+      <Time>2013-05-04T05:59:25.3311024+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\11.png</Source>
+      <Name>Textures\worlds background\11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\11.xnb</Output>
+      <Time>2013-05-04T06:02:38.0771268+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\12.png</Source>
+      <Name>Textures\worlds background\12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\12.xnb</Output>
+      <Time>2013-05-04T06:04:55.5559902+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\13.png</Source>
+      <Name>Textures\worlds background\13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\13.xnb</Output>
+      <Time>2013-05-04T06:07:02.8782726+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\14.png</Source>
+      <Name>Textures\worlds background\14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\14.xnb</Output>
+      <Time>2013-05-04T06:10:16.8943697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\HealthBar5.png</Source>
+      <Name>Textures\Sprites\HealthBar5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\HealthBar5.xnb</Output>
+      <Time>2013-05-09T14:15:03.3192479+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\HealthBar6.png</Source>
+      <Name>Textures\Sprites\HealthBar6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\HealthBar6.xnb</Output>
+      <Time>2013-05-10T16:45:04.8574479+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Screens background\2.png</Source>
+      <Name>Textures\Screens background\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Screens background\2.xnb</Output>
+      <Time>2013-05-11T05:52:54.5028579+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Health.png</Source>
+      <Name>Textures\Sprites\Health</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Health.xnb</Output>
+      <Time>2013-05-12T20:12:23.3532734+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterD\Run.png</Source>
+      <Name>Textures\Sprites\MonsterD\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Run.xnb</Output>
+      <Time>2013-05-16T17:53:38.5771645+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterD\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterD\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Idle.xnb</Output>
+      <Time>2013-05-16T17:53:38.5771645+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterD\Die.png</Source>
+      <Name>Textures\Sprites\MonsterD\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterD\Die.xnb</Output>
+      <Time>2013-05-16T20:57:52.737407+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\70.png</Source>
+      <Name>Textures\worlds background\70</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\70.xnb</Output>
+      <Time>2013-05-16T19:44:47.9175991+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\71.png</Source>
+      <Name>Textures\worlds background\71</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\71.xnb</Output>
+      <Time>2013-05-16T19:45:17.2330463+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\72.png</Source>
+      <Name>Textures\worlds background\72</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\72.xnb</Output>
+      <Time>2013-05-16T19:46:38.9643061+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\73.png</Source>
+      <Name>Textures\worlds background\73</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\73.xnb</Output>
+      <Time>2013-05-16T19:48:31.9794077+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\74.png</Source>
+      <Name>Textures\worlds background\74</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\74.xnb</Output>
+      <Time>2013-05-16T19:50:21.7752533+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\80.png</Source>
+      <Name>Textures\worlds background\80</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\80.xnb</Output>
+      <Time>2013-05-16T18:50:10.7872739+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\81.png</Source>
+      <Name>Textures\worlds background\81</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\81.xnb</Output>
+      <Time>2013-05-16T18:51:29.9746403+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\82.png</Source>
+      <Name>Textures\worlds background\82</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\82.xnb</Output>
+      <Time>2013-05-16T18:52:37.6687566+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\83.png</Source>
+      <Name>Textures\worlds background\83</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\83.xnb</Output>
+      <Time>2013-05-16T18:53:27.3167598+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\84.png</Source>
+      <Name>Textures\worlds background\84</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\84.xnb</Output>
+      <Time>2013-05-16T18:54:21.5511741+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\94.png</Source>
+      <Name>Textures\worlds background\94</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\94.xnb</Output>
+      <Time>2013-05-16T16:22:27.8353196+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\93.png</Source>
+      <Name>Textures\worlds background\93</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\93.xnb</Output>
+      <Time>2013-05-16T16:22:27.9289197+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\92.png</Source>
+      <Name>Textures\worlds background\92</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\92.xnb</Output>
+      <Time>2013-05-16T16:22:27.9601198+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\91.png</Source>
+      <Name>Textures\worlds background\91</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\91.xnb</Output>
+      <Time>2013-05-16T16:22:28.0225199+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\90.png</Source>
+      <Name>Textures\worlds background\90</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\90.xnb</Output>
+      <Time>2013-05-16T16:22:28.08492+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Player\Idle&amp;Up.png</Source>
+      <Name>Textures\Sprites\Player\Idle&amp;Up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Player\Idle&amp;Up.xnb</Output>
+      <Time>2013-05-23T23:26:48.0147178+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterE\Die.png</Source>
+      <Name>Textures\Sprites\MonsterE\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterE\Die.xnb</Output>
+      <Time>2013-05-17T19:39:59.2646053+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterE\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterE\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterE\Idle.xnb</Output>
+      <Time>2013-05-17T19:38:36.0398451+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterE\Run.png</Source>
+      <Name>Textures\Sprites\MonsterE\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterE\Run.xnb</Output>
+      <Time>2013-05-17T19:40:04.0278777+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterF\Die.png</Source>
+      <Name>Textures\Sprites\MonsterF\Die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterF\Die.xnb</Output>
+      <Time>2013-04-18T22:37:35.1926975+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterF\Idle.png</Source>
+      <Name>Textures\Sprites\MonsterF\Idle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterF\Idle.xnb</Output>
+      <Time>2013-04-18T21:57:45.3940088+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\MonsterF\Run.png</Source>
+      <Name>Textures\Sprites\MonsterF\Run</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\MonsterF\Run.xnb</Output>
+      <Time>2013-04-18T21:55:07.4599755+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Fire1.png</Source>
+      <Name>Textures\Sprites\Fire1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Fire1.xnb</Output>
+      <Time>2013-05-19T11:42:36.3455137+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Fire2.png</Source>
+      <Name>Textures\Sprites\Fire2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Fire2.xnb</Output>
+      <Time>2013-05-19T11:53:58.086507+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\100.png</Source>
+      <Name>Textures\worlds background\100</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\100.xnb</Output>
+      <Time>2013-05-24T11:16:43.794558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\102.png</Source>
+      <Name>Textures\worlds background\102</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\102.xnb</Output>
+      <Time>2013-05-24T11:16:43.794558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\103.png</Source>
+      <Name>Textures\worlds background\103</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\103.xnb</Output>
+      <Time>2013-05-24T12:48:22.707873+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\104.png</Source>
+      <Name>Textures\worlds background\104</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\104.xnb</Output>
+      <Time>2013-05-24T11:16:43.794558+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\worlds background\101.png</Source>
+      <Name>Textures\worlds background\101</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\worlds background\101.xnb</Output>
+      <Time>2013-05-24T12:48:11.6472404+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Fire0.png</Source>
+      <Name>Textures\Sprites\Fire0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Fire0.xnb</Output>
+      <Time>2013-05-26T10:14:17.8368483+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Textures\Sprites\Key_E.png</Source>
+      <Name>Textures\Sprites\Key_E</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Textures\Sprites\Key_E.xnb</Output>
+      <Time>2013-05-27T20:52:47.9112755+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Buxton Sketch24.spritefont</Source>
+      <Name>Fonts\Buxton Sketch24</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Fonts\Buxton Sketch24.xnb</Output>
+      <Time>2013-05-06T17:08:30.9028678+02:00</Time>
+    </Item>
+    <Item>
+      <Source>gamefont.spritefont</Source>
+      <Name>gamefont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\gamefont.xnb</Output>
+      <Time>2013-04-18T10:00:59.3482037+02:00</Time>
+    </Item>
+    <Item>
+      <Source>menu.spritefont</Source>
+      <Name>menu</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\menu.xnb</Output>
+      <Time>2013-05-06T23:02:44.5802633+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Buxton Sketch20.spritefont</Source>
+      <Name>Fonts\Buxton Sketch20</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Fonts\Buxton Sketch20.xnb</Output>
+      <Time>2013-05-17T19:18:49.9250032+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\intro.mp3</Source>
+      <Name>Sound\intro</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\intro.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\intro.wma</Extra>
+      <Time>2013-05-22T16:52:05.792964+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Levels.mp3</Source>
+      <Name>Sound\Levels</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Levels.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Levels.wma</Extra>
+      <Time>2013-05-22T16:52:05.9419725+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_1.mp3</Source>
+      <Name>Sound\Level_1</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_1.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_1.wma</Extra>
+      <Time>2013-05-22T16:52:05.7999644+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_2.mp3</Source>
+      <Name>Sound\Level_2</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_2.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_2.wma</Extra>
+      <Time>2013-05-22T16:52:05.8059647+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_3.mp3</Source>
+      <Name>Sound\Level_3</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_3.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_3.wma</Extra>
+      <Time>2013-05-22T16:52:05.8139652+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_4.mp3</Source>
+      <Name>Sound\Level_4</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_4.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_4.wma</Extra>
+      <Time>2013-05-22T16:52:05.8239657+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_5.mp3</Source>
+      <Name>Sound\Level_5</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_5.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_5.wma</Extra>
+      <Time>2013-05-22T16:52:05.8339663+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_6.mp3</Source>
+      <Name>Sound\Level_6</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_6.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_6.wma</Extra>
+      <Time>2013-05-22T16:52:05.8839692+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_7.mp3</Source>
+      <Name>Sound\Level_7</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_7.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_7.wma</Extra>
+      <Time>2013-05-22T16:52:05.9079706+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_8.mp3</Source>
+      <Name>Sound\Level_8</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_8.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_8.wma</Extra>
+      <Time>2013-05-22T16:52:05.9249715+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_9.mp3</Source>
+      <Name>Sound\Level_9</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_9.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_9.wma</Extra>
+      <Time>2013-05-22T16:52:05.9389723+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Level_10.mp3</Source>
+      <Name>Sound\Level_10</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_10.xnb</Output>
+      <Extra>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Level_10.wma</Extra>
+      <Time>2012-07-11T23:36:13.133+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Die.wav</Source>
+      <Name>Sound\Die</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Die.xnb</Output>
+      <Time>2013-05-22T16:55:09.423467+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Fire.wav</Source>
+      <Name>Sound\Fire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Fire.xnb</Output>
+      <Time>2013-05-22T16:55:09.4244671+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\First.wav</Source>
+      <Name>Sound\First</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\First.xnb</Output>
+      <Time>2013-05-22T16:55:09.4264672+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\GameStone.wav</Source>
+      <Name>Sound\GameStone</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\GameStone.xnb</Output>
+      <Time>2013-05-22T16:55:09.4284673+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\Health.wav</Source>
+      <Name>Sound\Health</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\Health.xnb</Output>
+      <Time>2013-05-22T16:55:09.4294674+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sound\jump.wav</Source>
+      <Name>Sound\jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\Sound\jump.xnb</Output>
+      <Time>2013-05-22T16:55:09.4214669+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-InvadersContent\</RootDirectory>
+      <LoggerRootDirectory>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\</LoggerRootDirectory>
+      <IntermediateDirectory>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-InvadersContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>E:\Earth Invaders Full - offline\Earth Invaders\Earth-Invaders\Earth-Invaders\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-04-11T07:19:31.0580999+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

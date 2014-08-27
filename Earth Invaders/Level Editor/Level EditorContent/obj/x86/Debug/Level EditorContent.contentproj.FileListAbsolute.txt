@@ -1,0 +1,17 @@
+c:\users\kurt\documents\visual studio 2010\Projects\Gemstone Hunter\Level Editor\Level EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\BookResources\BookChapters\For XNA 4.0\0669_09_CODE\Gemstone Hunter\Level Editor\Level EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dayan Haymes\Desktop\0669_09_CODE\Gemstone Hunter\Level Editor\Level EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Code\Gemstone Hunter\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Code\Code\Gemstone Hunter\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Code\Code\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Code\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+D:\FCIS\Second year\Second Term\OOP\Project\Earth Invaders 27-4\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 5-5\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 6-5\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\kamal\Desktop\Earth Invaders 6-5\Earth Invaders 6-5\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 8-5\Earth Invaders 7-5\Earth Invaders 7-5\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders 9-5\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+E:\Earth Invaders Full\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\Earth Invaders Full\Earth Invaders\Level Editor\Level EditorContent\obj\x86\Debug\Level EditorContent.contentprojResolveAssemblyReference.cache
